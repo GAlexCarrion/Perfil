@@ -17,7 +17,7 @@
   },
   "about": {
     "title1": "Sobre mí",
-    "desc": "Tecnólogo Superior en Desarrollo de Software graduado, con experiencia en React, Angular, Spring Boot, Django y bases de datos SQL/NoSQL. Co-fundador de DracarySoft, agencia de desarrollo de software en Quito.",
+    "desc": "Egresado en Desarrollo de Software con experiencia en proyectos tecnológicos. Especializado en el desarrollo de aplicaciones web y móviles con React, React Native, Java y Python, aplicando control de versiones y buenas prácticas de ingeniería de software.",
     "link": "Mira mi cv completo aquí"
   },
   "skills": {
@@ -31,7 +31,7 @@
     "project1d": "Apoyé como ayudante en el desarrollo y mantenimiento de la plataforma educativa de la Defensoría del Pueblo. Participé en la mejora de funcionalidades, solución de errores y creación de nuevas APIs tanto en backend como frontend.",
     "project2t": "Página web informativa – Unidad Educativa Lincoln Larrea",
     "project2d": "Desarrollé una web institucional moderna y responsi   va con información para estudiantes y padres. Se implementó con React y Firebase para un despliegue rápido y mantenimiento sencillo.",
-    "project3t": "FocusUp",
+    "project3t": "Enfocate",
     "project3d": "Aplicación web sobre técnicas de estudio y productividad, desarrollada con React, TypeScript y Vite. Incluye diseño responsivo, componentes reutilizables y una interfaz optimizada para estudiantes.",
     "project4t": "DracarySoft – Agencia de Software",
     "project4d": "Co-fundé y desarrollé el sitio web oficial de DracarySoft, agencia de desarrollo de software en Quito. Construido con React, TypeScript y animaciones avanzadas con Framer Motion y GSAP.",

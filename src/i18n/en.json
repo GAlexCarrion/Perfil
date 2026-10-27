@@ -17,7 +17,7 @@
   },
   "about": {
     "title1": "About me",
-    "desc": "Full Stack Developer graduated in Software Development Technology. Experienced in React, Angular, Spring Boot, Django, and SQL/NoSQL databases. Co-founder of DracarySoft, a software agency based in Quito.",
+    "desc": "Software Development Graduate with experience in technological projects. Specialized in web and mobile application development using React, React Native, Java, and Python, applying version control and software engineering best practices.",
     "link": "View my full resume here"
   },
   "skills": {
@@ -31,10 +31,8 @@
     "project1d": "I contributed as an assistant in the development and maintenance of the educational platform for the Ombudsman's Office. I participated in improving features, fixing bugs, and creating new APIs for both backend and frontend.",
     "project2t": "Informative Website – Lincoln Larrea Educational Unit",
     "project2d": "I developed a modern, responsive institutional website with information for students and parents. It was built with React and Firebase for fast deployment and easy maintenance.",
-    "project3t": "FocusUp",
+    "project3t": "Focus",
     "project3d": "Web application focused on study techniques and productivity, developed with React, TypeScript, and Vite. Includes responsive design, reusable components, and an optimized interface for students.",
-    "project4t": "DracarySoft – Software Agency",
-    "project4d": "Co-founded and developed the official website for DracarySoft, a software agency based in Quito. Built with React, TypeScript, and advanced animations using Framer Motion and GSAP.",
     "view": "View Project →"
   },
   "contact": {

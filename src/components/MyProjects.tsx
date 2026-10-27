@@ -9,7 +9,7 @@ export const MyProjects = () => {
       tech: ["React", "Redis", "Docker", "Postgresql", "Inertia", "Adonis"],
       img: "https://iili.io/KOWbKYu.md.png",
       color: "neon",
-      link: "https://educacion.dpe.gob.ec/",
+      link: "https://www.dpe.gob.ec/",
     },
     {
       title: t("projects.project2t"),
@@ -17,7 +17,7 @@ export const MyProjects = () => {
       tech: ["React", "Firebase", "Typescipt", "Vite", "Tailwind CSS"],
       img: "https://iili.io/KOW4Vb1.md.png",
       color: "cyber",
-      link: "https://uelincolnlarrea.com/",
+      link: "https://uelincolnlarrea.netlify.app/",
     },
     {
       title: t("projects.project3t"),
@@ -25,23 +25,9 @@ export const MyProjects = () => {
       tech: ["React", "Typescript", "Vite", "Tailwind CSS"],
       img: "https://iili.io/KOWtzwQ.md.png",
       color: "matrix",
-      link: "https://focusupluiscr918.netlify.app/",
+      link: "https://enfocate-two.vercel.app/",
     },
-    {
-      title: t("projects.project4t"),
-      desc: t("projects.project4d"),
-      tech: [
-        "React",
-        "TypeScript",
-        "Vite",
-        "Tailwind CSS",
-        "Framer Motion",
-        "GSAP",
-      ],
-      img: "https://i.postimg.cc/vBjn4sHt/Captura-de-pantalla-2026-06-19-114552.png",
-      color: "neon",
-      link: "https://dracarysoft.com",
-    },
+    
   ];
   return (
     <section id="work" className="py-20 px-8">

@@ -23,7 +23,7 @@ export const Footer = () => {
           </a>
         </div>
         <p className="text-gray-500 text-sm">
-          © 2025 Luis Castillo. All rights reserved.
+          © 2025 Alexander Carrion. All rights reserved.
         </p>
       </div>
     </footer>

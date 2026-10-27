@@ -40,7 +40,7 @@ export const AboutMe = () => {
 
               {/* GitHub icon link */}
               <a
-                href="https://github.com/luiscr918"
+                href="https://github.com/GAlexCarrion"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-gray-200 hover:text-white transition-colors"
@@ -56,7 +56,7 @@ export const AboutMe = () => {
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img
           className="h-56 w-full object-cover object-top sm:h-72 md:h-96 lg:w-full lg:h-full"
-          src="https://i.postimg.cc/JhBf6LtL/redim1.png"
+          src="https://i.postimg.cc/NfdNfCWx/Screenshot-2026-05-24-202547.png"
           alt="Developer workspace"
         />
       </div>
